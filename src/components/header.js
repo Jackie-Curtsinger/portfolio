@@ -7,8 +7,9 @@ const Header = ({name, contactEmail})=>{
                 <Link to="/"><h1>{name}.</h1></Link>
                 <nav>
                     <ul>
-                        <li><Link to="/about">about</Link></li>
-                        <li><a href={`mailto:${contactEmail}`}>contact</a></li>
+                        <li><Link to="/about">About</Link></li>
+                        <li><a href={`mailto:${contactEmail}`}>Contact</a></li>
+                       <li> <a href="/resume.pdf" download> Download CV</a></li>
                     </ul>
                 </nav>
             </div>
@@ -17,3 +18,5 @@ const Header = ({name, contactEmail})=>{
 }
 
 export default Header
+
+
