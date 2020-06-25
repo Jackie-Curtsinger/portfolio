@@ -1,3 +1,4 @@
+
 export default {
 
   name: "Jackie Curtsinger",
@@ -79,5 +80,39 @@ export default {
 
   // About Page
   aboutTitle: "I gain skills like the Tardis aquires Doctors",
-  aboutPara:"I am a fullstack web developer looking to create an incredible user experience. "
+  aboutPara:"I am a fullstack web developer looking to create an incredible user experience. ",
+  reference: [
+    {
+      id: 7, 
+      quote: '"I would highly recommend Jackie Curtsinger, she truly is an amazing person that will always do her ver best to go above and beyond in her profession. -Leo Diaz"',  
+      source: "assets/recLeo.txt" 
+      
+    },
+    {
+      id: 8, 
+      quote: '"Her abilities never ceased to amaze me. -Maleana Raymond Customer Operations Lead Amazon Web Services"',
+      source: "assets/recMal.txt"
+    },
+    {
+      id: 9, 
+      quote: "Placeholder",
+      source: "https://github.com/Jackie-Curtsinger/TodoList"
+    },
+    {
+      id: 10, 
+      quote: "placeholder",
+      source: "https://github.com/Jackie-Curtsinger/BustaMoveFitness"
+    },
+    {
+      id: 11, 
+      quote: "Placeholder",
+      source: "http://github.com/Jackie-Curtsinger"
+    },
+    {
+      id: 12, 
+      quote: "Placeholder",
+      source: "http://github.com/Jackie-Curtsinger"
+    }
+    
+  ],
 };
