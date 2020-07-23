@@ -15,7 +15,7 @@ const Testimonial = ({reference}) =>{
                 <div key={reference.id} className="reference">
                     <div className="quote">
                     <a href={reference.source}>
-                            <p> {reference.quote}</p>
+                            <p> {reference.quote} </p>
                         </a>
                         
                     </div>

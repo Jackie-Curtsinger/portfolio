@@ -11,7 +11,7 @@ export default {
 
   
   landingPagePara:
-    "Let me use my passion of skill aquisition to help you succeed.",
+    "To see your perfect website fulfilled work with me. As you know the surest way to make your dreams come true is to live them. ",
 
   
   landingPageImage: "assets/jax.jpg",
@@ -74,45 +74,37 @@ export default {
     },
     {
       name: "Codepen",
-      url: "https://https://codepen.io/Jackie_C"
+      url: "https://codepen.io/Jackie_C"
     },
   ],
 
   // About Page
-  aboutTitle: "I gain skills like the Tardis aquires Doctors",
-  aboutPara:"I am a fullstack web developer looking to create an incredible user experience. ",
+  aboutTitle: 
+  'I live by two mantras in life.  "I believe in my ability to figure things out" & "Take life seriously enough to bring joy and fun to each day."',
+  aboutPara:
+	"I am a fullstack web developer looking to create an incredible user experience. My love of skill acquisition has brought me down the path of web development because there is always something new to learn.  Coding provides me with a way to help others effectively communicate what they or their business has to offer the world. As a detail-oriented honors graduate from Nucamp, I have successfully demonstarted abilities in multiple languages and frameworks. This knowledge paired with my extensive experience in eCommerce, logistics, and data-analitics help me to easily create solutions for client's goals.",
   reference: [
     {
-      id: 7, 
-      quote: '"I would highly recommend Jackie Curtsinger, she truly is an amazing person that will always do her ver best to go above and beyond in her profession. -Leo Diaz"',  
+      id: 10, 
+      quote: '"I would highly recommend Jackie Curtsinger, she truly is an amazing person that will always do her very best to go above and beyond in her profession. -Leo Diaz"',  
       source: "assets/recLeo.txt" 
       
     },
     {
-      id: 8, 
-      quote: '"Her abilities never ceased to amaze me. -Maleana Raymond Customer Operations Lead Amazon Web Services"',
+      id: 11, 
+      quote: '"Her abilities never ceased to amaze me." -Maleana Raymond Customer Operations Lead Amazon Web Services',
       source: "assets/recMal.txt"
     },
     {
-      id: 9, 
-      quote: "Placeholder",
-      source: "https://github.com/Jackie-Curtsinger/TodoList"
-    },
-    {
-      id: 10, 
-      quote: "placeholder",
-      source: "https://github.com/Jackie-Curtsinger/BustaMoveFitness"
-    },
-    {
-      id: 11, 
-      quote: "Placeholder",
-      source: "http://github.com/Jackie-Curtsinger"
-    },
-    {
       id: 12, 
-      quote: "Placeholder",
-      source: "http://github.com/Jackie-Curtsinger"
-    }
+      quote: '"Jackie has a knack for streamlining processes"-Chuck Emery',
+      source: "assets/recChuck.txt"
+    },
+    {
+      id: 13, 
+      quote: '"She quickly gained the respect and trust of colleagues and was admired for her reliability and collaborative spirit."-Travis Malin Engineering Operations Amazon AWS',
+      source: "assets/recTravis.txt" 
+    },
     
   ],
 };

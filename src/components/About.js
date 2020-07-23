@@ -12,7 +12,7 @@ return (
       <h1>{data.aboutTitle}</h1>
       <p>{data.aboutPara}</p>
       <Testimonial reference = {data.reference}></Testimonial>
-      <div className="about_contact">
+      <div>
         <Contact
           contactEmail={data.contactEmail}
           contactPara={data.contactPara}

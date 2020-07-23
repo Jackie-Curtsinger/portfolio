@@ -178,7 +178,7 @@ a{
 }
 .about_container .about_contact{
   position: relative;
-  top:-20rem;
+  /* top:-20rem; */
 }
 
 

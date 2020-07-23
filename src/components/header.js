@@ -8,7 +8,7 @@ const Header = ({name, contactEmail})=>{
                 <nav>
                     <ul>
                         <li><Link to="/about">About</Link></li>
-                        <li><a href={`mailto:${contactEmail}`}>Contact</a></li>
+                        <li><a href={`mailto:${contactEmail}`}>Contact me</a></li>
                        <li> <a href="/resume.pdf" download> Download CV</a></li>
                     </ul>
                 </nav>
