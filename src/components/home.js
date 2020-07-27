@@ -14,7 +14,6 @@ const Home = ({name, paragraph, authorImage})=>{
                 <img src={authorImage} alt="Author"></img>
                 <div className="bg"></div>
             </div>
-            
         </div>
     </div>
     )
