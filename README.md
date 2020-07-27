@@ -1,2 +1,2 @@
 # React Portfolio
-Minimal Portfolio built with React. 
+First ever portfolio built with React. 
