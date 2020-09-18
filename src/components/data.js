@@ -20,7 +20,7 @@ export default {
   projects: [
     {
       id: 1, 
-      title: "React version of Nucampsite",  
+      title: "React Nucampsite",  
       // Image Size (300X300 px)
       imageSrc: "assets/reactnucampsite.png",
       
@@ -28,13 +28,13 @@ export default {
     },
     {
       id: 2, 
-      title: "Bootstrap version of Nucampsite",
+      title: "Bootstrap Nucampsite",
       imageSrc: "assets/bootstrapnc.png",
       url: "http://github.com/Jackie-Curtsinger"
     },
     {
       id: 3, 
-      title: "Scoped CSS Variables",
+      title: "Variables",
       imageSrc: "assets/mScott.png",
       url: "https://github.com/Jackie-Curtsinger/cssVariables"
     },
@@ -46,9 +46,9 @@ export default {
     },
     {
       id: 5, 
-      title: "JavaScript matching game",
-      imageSrc: "assets/matchingGame.png",
-      url: "http://github.com/Jackie-Curtsinger"
+      title: "Journal App",
+      imageSrc: "assets/jentry.png",
+      url: "http://github.com/Jackie-Curtsinger/Journal"
     },
     {
       id: 6, 
@@ -66,7 +66,7 @@ export default {
     
     {
       name: "LinkedIn",
-      url: "https://www.linkedin.com/"
+      url: "https://www.linkedin.com/in/jackie-curtsinger-7352681b7/"
     },
     {
       name: "Github",
@@ -82,7 +82,7 @@ export default {
   aboutTitle: 
   'I am a fullstack web developer looking to create an incredible user experience. "',
   aboutPara:
-	"My love of skill acquisition has brought me down the path of web development because there is always something new to learn.  Coding provides me with a way to help others effectively communicate what they or their business has to offer the world. As a detail-oriented honors graduate from Nucamp, I have successfully demonstarted abilities in multiple languages and frameworks. This knowledge paired with my extensive experience in eCommerce, logistics, and data-analitics help me to easily create solutions for client's goals.",
+	"My love of skill acquisition has brought me down the path of web development because there is always something new to learn.  Coding provides me with a way to help others effectively communicate what their business has to offer the world. As a detail-oriented honors graduate from Nucamp, I have successfully demonstarted abilities in multiple languages and frameworks. This knowledge paired with my extensive experience in eCommerce, logistics, and data-analitics help me to easily create solutions for client's goals.",
   reference: [
     {
       id: 10, 

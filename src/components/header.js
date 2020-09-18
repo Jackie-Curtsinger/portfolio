@@ -9,7 +9,7 @@ const Header = ({name, contactEmail})=>{
                     <ul>
                         <li><Link to="/about">About</Link></li>
                         <li><a href={`mailto:${contactEmail}`}>Contact me</a></li>
-                       <li> <a href="/resume.pdf" download> Download CV</a></li>
+                       <li> <a href="/JackieCurtsingerResume.PDF" download> Download CV</a></li>
                     </ul>
                 </nav>
             </div>
